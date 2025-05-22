@@ -1,0 +1,1 @@
+import{p as n,u as e,j as t,B as a}from"./index-TTKrRBsV.js";import{R as i}from"./PlusOutlined-Ba-GwlE8.js";const p=n(a)``,m=({children:s,...o})=>{const{t:r}=e();return t.jsx(p,{type:"primary",icon:t.jsx(i,{}),...o,children:s||r("Qo'shish")})};export{m as C};

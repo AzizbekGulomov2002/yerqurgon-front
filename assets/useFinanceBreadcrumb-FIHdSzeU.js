@@ -1,0 +1,1 @@
+import{u as a,j as s,o as e,d as i}from"./index-TTKrRBsV.js";const r=()=>{const{t}=a();return[{title:s.jsxs(e,{align:"center",gap:"small",children:[s.jsx(i,{size:20}),s.jsx("span",{children:t("Statistika")})]})},{title:t("Moliya statistikasi")}]};export{r as u};

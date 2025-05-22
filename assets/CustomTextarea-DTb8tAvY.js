@@ -1,0 +1,1 @@
+import{p as o,u as r,j as a}from"./index-TTKrRBsV.js";import{I as e}from"./index-CRizbU4B.js";const{TextArea:n}=e,p=o(n)``,x=({...t})=>{const{t:s}=r();return a.jsx(p,{rows:4,placeholder:s("Izoh"),...t})};export{x as C};

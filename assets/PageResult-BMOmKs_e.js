@@ -1,0 +1,1 @@
+import{j as s}from"./index-TTKrRBsV.js";import{P as a,E as o}from"./PageLoader-DmyE2ANN.js";const m=({children:e,isLoading:t=!1,error:r})=>s.jsx("div",{children:t?s.jsx(a,{}):s.jsx(s.Fragment,{children:r?s.jsx(o,{error:r}):s.jsx(s.Fragment,{children:e})})});export{m as P};

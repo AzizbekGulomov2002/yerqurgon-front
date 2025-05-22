@@ -1,0 +1,1 @@
+import{p as n,l as r,u as c,j as t,B as e}from"./index-TTKrRBsV.js";import{R as i}from"./LeftOutlined-30Vtg-fw.js";const u=n(e)``,l=({...s})=>{const a=r(),{t:o}=c();return t.jsx(u,{onClick:()=>a(-1),icon:t.jsx(i,{}),...s,children:o("Orqaga")})};export{l as B};

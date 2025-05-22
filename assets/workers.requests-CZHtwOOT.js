@@ -1,0 +1,1 @@
+import{aW as e}from"./index-TTKrRBsV.js";function s(r,t,o){return e.get(`/workers/?page=${r}&page_size=${t}${o&&`&${o}`}`)}function p(r){return e.get(`/workers/${r}/`)}function u(r){return e.post("/workers/",r)}function a({id:r,data:t}){return e.put(`/workers/${r}/`,t)}function k(r){return e.delete(`/workers/${r}/`)}export{s as a,u as b,a as c,p as d,k as h};
